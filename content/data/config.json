@@ -33,5 +33,11 @@
             }
         ]
     },
-    "domain": "https://charming-zucchini-fe26f.netlify.app"
+    "domain": "https://charming-zucchini-fe26f.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
